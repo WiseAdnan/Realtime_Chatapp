@@ -13,15 +13,23 @@ All Kubernetes manifest files are placed directly in the root of this repo. No n
 You can directly use the following Docker images hosted on Docker Hub:
 
 docker pull
+
 shahabadnan/chatpp-frontend:tagname
+
 docker pull 
+
 shahabadnan/chatapp-backend:tagname
+
 You can also push them using:
 
 docker push 
+
 shahabadnan/chatpp-frontend:tagname
+
 docker push 
+
 shahabadnan/chatapp-backend:tagname
+
 Replace tagname with the appropriate tag you have built.
 
 How to Deploy This App
