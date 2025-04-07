@@ -31,9 +31,9 @@ This will create and configure everything required to run the app locally on you
 Screenshots
 Below are images of the chat app successfully running on localhost after deploying all manifests:
 
-👤 User 1 View
+[👤 User 1 View](https://github.com/WiseAdnan/Realtime_Chatapp/blob/main/Screenshot%202025-04-07%20at%2018.35.50.png)
 
-👤 User 2 View (Incognito Window)
+[👤 User 2 View (Incognito Window)](https://github.com/WiseAdnan/Realtime_Chatapp/blob/main/Screenshot%202025-04-07%20at%2018.36.06.png)
 
 DevOps Highlights
 ✅ Used multi-stage Docker builds to reduce image size and improve security.
